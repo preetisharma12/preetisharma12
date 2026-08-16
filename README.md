@@ -45,7 +45,4 @@ Real-time bread detection for a smart-manufacturing bakery line, built during wo
 ### [llm-optimization-assistant](https://github.com/preetisharma12/llm-optimization-assistant)
 A conversational assistant that interviews users about an optimization problem and automatically builds a structured optimization model and plain-language description from the conversation.
 
-## GitHub Stats
 
-![Preeti's GitHub stats](https://github-readme-stats.vercel.app/api?username=preetisharma12&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preetisharma12&layout=compact)
