@@ -2,7 +2,7 @@
 
 # Hi, I'm Preeti Sharma
 
-MSc IT student. I love telling stories with data, reading books, and meeting new people.
+I love telling stories with data, reading books, and meeting new people.
 
 [LinkedIn](https://www.linkedin.com/in/preeti-sharma-a740231a2) &nbsp;|&nbsp; [Kaggle](https://www.kaggle.com/preetisharma23) &nbsp;|&nbsp; [Medium](https://medium.com/@preetisharma23)
 
@@ -12,7 +12,7 @@ MSc IT student. I love telling stories with data, reading books, and meeting new
 
 ## About Me
 
-I'm an MSc IT student working on data-driven and machine-learning projects, including object detection and tracking, and LLM-assisted optimization tooling.
+I'm working on data-driven and machine-learning projects, including object detection and tracking, and LLM-assisted optimization tooling.
 
 ## Languages & Tools
 
