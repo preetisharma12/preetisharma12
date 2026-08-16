@@ -33,7 +33,6 @@ I'm an MSc IT student working on data-driven and machine-learning projects, incl
 ![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics_YOLO-111F68?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-4B8BBE?style=for-the-badge)
 
-*(3 icons from your screenshot are not included yet -- I couldn't confidently identify a purple bars icon, an orange circle icon, and a red ring icon. Tell me what they are and I'll add them.)*
 
 ## Featured Projects
 
