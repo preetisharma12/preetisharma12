@@ -4,7 +4,7 @@
 
 MSc IT student. I love telling stories with data, reading books, and meeting new people.
 
-[LinkedIn: missing -- please provide your LinkedIn URL](#)
+[LinkedIn: missing -- please provide your LinkedIn URL](#) &nbsp;|&nbsp; [Kaggle](https://www.kaggle.com/preetisharma23) &nbsp;|&nbsp; [Medium](https://medium.com/@preetisharma23)
 
 </div>
 
